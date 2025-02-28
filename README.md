@@ -102,7 +102,7 @@ Para essa é só colocar um número e um ponto na frente de cada linha, exemplo:
 
 ### Lista aninhada
 
-Na lista aninhada você usar outras listas e adicionar "objetivos extras" para ela, você cria dando um espaço na linha de baixo do objetivo pricipal e coloca um (-) (vocÊ pode criar umobjetivo dentro de outro também) como exemplo:
+Na lista aninhada você usar outras listas e adicionar "objetivos extras" para ela, você cria dando um espaço na linha de baixo do objetivo pricipal e coloca um (-) (você pode criar um objetivo dentro de outro também) como exemplo:
 
 1. começar o projeto
    - planejar a ideia
