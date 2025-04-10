@@ -158,6 +158,70 @@ Você pode dizer a GitHub para ocultar o conteúdo do markdown interpretado, col
 
 <!-- This content will not appear in the rendered Markdown -->
 
+# Citar códigos
+
+É usado para mostrar códigos principalmente sem executar eles e é usado `` (crase) para marcar.
+
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+Para formatar código ou texto no próprio bloco distinto, use aspas triplas.
+
+```
+git status
+git add
+git commit
+```
+
+# Tabelas
+
+Você pode usar formatação, como links, blocos de código embutidos e estilo de texto na tabela:
+
+```
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+```
+
+Exemplo:
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+Você pode alinhar o texto à esquerda, à direita ou no centro de uma coluna incluindo dois pontos : à esquerda, direita ou nos dois lados dos hifens que estão dentro da linha de cabeçalho.
+
+```
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+```
+
+Exemplo:
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+Para incluir uma barra vertical | como conteúdo dentro da célula, use \ antes da barra vertical:
+
+```
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+```
+
+Exemplo:
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 # Considerações finais
 
 Obviamente eu não coloquei todos os conteúdos nesse read me, mas a grande maioria e com mais importancia está aqui por isso abaixo está o link do manual do github para acesso a mais coisas possiveis de se fazer:
