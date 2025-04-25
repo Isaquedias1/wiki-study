@@ -164,7 +164,7 @@ Você pode dizer a GitHub para ocultar o conteúdo do markdown interpretado, col
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
-Para formatar código ou texto no próprio bloco distinto, use aspas triplas.
+Para formatar código ou texto no próprio bloco distinto, use crase triplas.
 
 ```
 git status
