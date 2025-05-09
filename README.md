@@ -245,4 +245,4 @@ Exemplo:
 
 Obviamente eu não coloquei todos os conteúdos nesse read me, mas a grande maioria e com mais importancia está aqui por isso abaixo está o link do manual do github para acesso a mais coisas possiveis de se fazer:
 
-https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#further-reading
+https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
