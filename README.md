@@ -8,7 +8,7 @@ Para o texto temos muitas coisas que podemos usar em um read me, você verá aba
 # Titles
 
 Cada vez que você cria um título ele aparecerá nos três pontos no canto superior direito do readme como uma seção facilitando a navegação.
-Nos títulos você pode usar # para transformar a palavra depois em um título. Você também pode usar ## ou ### para mudar o tipo de título, por exemplo:
+Nos títulos você pode usar # para transformar a palavra depois em um título. Você também pode usar ## ou ### para mudar o tipo de título podendo adicionar mais # para diminuir ainda mais a fonte, por exemplo:
 
 # estudo
 
