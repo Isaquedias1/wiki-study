@@ -152,6 +152,25 @@ São usados para destacar textos especificos para ajudar a compreensão e existe
 > [!CAUTION]
 > Serve para avisar de possiveis problemas caso algo aconteça ou alguém mude algo.
 
+Como o código é:
+
+```
+> [!NOTE]
+> Usado para mostrar informações uteis ou pontos que valem ser citados.
+
+> [!TIP]
+> Dicas para ajudar a compreender o que está no read me.
+
+> [!IMPORTANT]
+> Pontos importantes sobre o projeto que os membros ou usuários precisam saber.
+
+> [!WARNING]
+> Passa uma mensagem de algo crucial para ser resolvido com urgencia ou fala sobre problemas presentes no projeto.
+
+> [!CAUTION]
+> Serve para avisar de possiveis problemas caso algo aconteça ou alguém mude algo.
+```
+
 # Comentários
 
 Você pode dizer a GitHub para ocultar o conteúdo do markdown interpretado, colocando o conteúdo em um comentário HTML. Esse comentário não aparece no read me.
