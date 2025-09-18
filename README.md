@@ -236,10 +236,10 @@ Para incluir uma barra vertical | como conteúdo dentro da célula, use \ antes 
 
 Exemplo:
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
 
 # Considerações finais
 
